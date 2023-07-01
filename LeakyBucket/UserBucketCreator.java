@@ -20,5 +20,4 @@ public class UserBucketCreator {
             System.out.println(Thread.currentThread().getName() + " -> too many request, try later");
         }
     }
-
 }
